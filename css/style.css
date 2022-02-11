@@ -1,0 +1,15 @@
+body {
+  background-color: hsl(189, 41%, 97%);
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+@media screen and (max-width: 500px) {
+  main {
+    width: 375px;
+  }
+}
